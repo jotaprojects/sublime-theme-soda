@@ -1,0 +1,23 @@
+{
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/User/Blackboard (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_size": 9,
+	"highlight_line": true,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage",
+		"HTML-CSS-JS Prettify",
+		"PHP Companion",
+		"Autoprefixer"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "Soda Dark 3.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": true
+}
